@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".viewProfile">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="171dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="171dp"
+        android:text="My Profile"
+        android:textColor="#710117"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="160dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:gravity="center_horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/fName"
+            android:textSize="20dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="First Name"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/lName"
+            android:textSize="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/fName"
+            android:text="Last Name"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bloodType"
+            android:textSize="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_below="@+id/lName"
+            android:text="Blood Type"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:textSize="20dp"
+            android:id="@+id/lastDonationDate"
+            android:layout_below="@+id/bloodType"
+            android:text="Last Donation Date"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/phoneNo"
+            android:layout_marginBottom="20dp"
+            android:textSize="20dp"
+            android:layout_below="@+id/lastDonationDate"
+            android:text="Phone Number"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gender"
+            android:textSize="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_below="@+id/phoneNo"
+            android:text="Gender"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nationalID"
+            android:textSize="20dp"
+            android:layout_below="@+id/gender"
+            android:text="National ID"/>
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

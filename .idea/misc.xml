@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/drawable/edit_text_border.xml" value="0.2075" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_blood_bank_home_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_blood_bank_main.xml" value="0.2" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_donor_home_page.xml" value="0.2" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_donor_profile_info.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_find_location.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_get_distance_between.xml" value="0.2" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_list_of_donors.xml" value="0.2859375" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_maps.xml" value="0.22" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_registration.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_search_donors.xml" value="0.25432525951557095" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_user_location_guide.xml" value="0.22" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_user_type.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/activity_view_profile.xml" value="0.1859375" />
+        <entry key="..\:/Users/Elsie Cindy/AndroidStudioProjects/Crimson/app/src/main/res/layout/list_item.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931066813846",
+    "firebase_url": "https://crimson-blood-donation-default-rtdb.firebaseio.com",
+    "project_id": "crimson-blood-donation",
+    "storage_bucket": "crimson-blood-donation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931066813846:android:976de4406e0a7bb5d351b7",
+        "android_client_info": {
+          "package_name": "com.example.crimson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931066813846-p44bhm3l813snpfgibe33rkjd11ettes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crimson",
+            "certificate_hash": "dc0dde6e64432d1feb672c30d985c6e49604a9c3"
+          }
+        },
+        {
+          "client_id": "931066813846-gv75u7mvbqcjdnek1p9rj7op9lv926kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcuKitqCewp0i6K5uB2JmD-A_6M33lGeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931066813846-gv75u7mvbqcjdnek1p9rj7op9lv926kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
