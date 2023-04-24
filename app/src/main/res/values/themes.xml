@@ -13,4 +13,16 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="ralewayRegularFont">
+        <item name="android:fontFamily">@font/ralewayregular</item>
+    </style>
+
+    <style name="ralewayBoldFont">
+        <item name="android:fontFamily">@font/ralewaybold</item>
+    </style>
+
+    <style name="ralewaySemiBoldFont">
+        <item name="android:fontFamily">@font/ralewaysemibold</item>
+    </style>
 </resources>
